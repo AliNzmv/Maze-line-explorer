@@ -51,7 +51,7 @@ Embark on a captivating robotic exploration mission with our Maze Exploration an
 1. Clone the repository:
 
    ```
-   git lone  https://github.com/AliNzmv/django-cash-management.git 
+   https://github.com/AliNzmv/Maze-line-explorer-.git
    ```
 
 ## Join the Adventure! 🚀
