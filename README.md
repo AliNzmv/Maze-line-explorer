@@ -51,7 +51,7 @@ Embark on a captivating robotic exploration mission with our Maze Exploration an
 1. Clone the repository:
 
    ```
-   https://github.com/AliNzmv/Maze-line-explorer-.git
+   git clone https://github.com/AliNzmv/Maze-line-explorer-.git
    ```
 
 ## Join the Adventure! 🚀
