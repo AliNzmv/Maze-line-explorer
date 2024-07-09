@@ -60,4 +60,3 @@ Experience the thrill of robotic exploration and advanced control strategies as 
 
 Let's navigate the maze, solve challenges, and unveil the secrets hidden within – all with the precision and expertise of our e-Puck robot! 🚀🔮💡
 
-Feel free to further customize or expand on this markdown template to capture the essence of your Maze Exploration and Line Following project!
